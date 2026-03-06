@@ -1,0 +1,15 @@
+Microsoft Windows [Version 10.0.26200.7840]
+(c) Microsoft Corporation. All rights reserved.
+
+C:\Users\jlsta>py
+Python 3.14.0 (tags/v3.14.0:ebf955d, Oct  7 2025, 10:15:03) [MSC v.1944 64 bit (AMD64)] on win32
+Type "help", "copyright", "credits" or "license" for more information.
+>>> python
+Traceback (most recent call last):
+  File "<python-input-0>", line 1, in <module>
+    python
+NameError: name 'python' is not defined
+>>> a = 10
+>>> print(a)
+10
+>>>
